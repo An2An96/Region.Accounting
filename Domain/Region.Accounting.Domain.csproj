@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Region.Accounting.Domain</RootNamespace>
+    <AssemblyName>Region.Accounting.Domain</AssemblyName>
+  </PropertyGroup>
+
+</Project>
